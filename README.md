@@ -1,2 +1,2 @@
-## todaysclass
+# todaysclass
 stating  numpy and github
